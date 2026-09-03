@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Vrushabh Chauhan Portfolio"
+description = "A cinematic product management portfolio that frames a career in data and AI as a precision-driven race, with case studies, principles, experiments, and contact details."
+version = "1.0.0"
+id = "artifacts/vrushabh-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21074
+
+[services.development]
+run = "pnpm --filter @workspace/vrushabh-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/vrushabh-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/vrushabh-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21074"
+BASE_PATH = "/"
