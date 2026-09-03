@@ -1,0 +1,322 @@
+# F1 Portfolio — Loop Engineering Prompt
+
+I’m building a portfolio website for a Product Management professional. The website should feel like a **premium Formula 1 experience combined with Apple’s sleek, minimal, Liquid Glass design language**.
+
+Use this as an iterative design loop, not a one-shot generation.
+
+## Core Concept
+
+Treat the portfolio as an F1 race:
+
+* **I am the driver**
+* **My career is the race**
+* **My experience is the race history**
+* **My achievements are race performance**
+* **My projects are the garage**
+* **My thinking/principles are the engineering philosophy**
+* **My contact information is the pit lane / useful coordinates**
+
+The F1 theme should feel sophisticated and intentional—not like a gaming website.
+
+## User Flow
+
+### 1. Race Start / Loading
+
+When the website opens:
+
+* Show a cinematic F1-inspired loading screen.
+* Display **five red race-start lights**.
+* Lights activate sequentially: 1 → 2 → 3 → 4 → 5.
+* Brief pause.
+* All lights turn green.
+* Transition smoothly into the main portfolio.
+
+The loading sequence should feel like an actual race start.
+
+### 2. Driver Profile — Home
+
+The first main page should be extremely clean.
+
+Left side:
+
+* **VRUSHABH CHAUHAN**
+* Product Portfolio Manager
+* Cisco
+* Current Lap: **2024+**
+* Sector: **Data × AI**
+* Status: **PUSHING**
+* Other concise driver/profile statistics
+
+Right side:
+
+* Large professional image of me
+* Cinematic F1-inspired presentation
+* Minimal visual clutter
+
+Include a prominent:
+
+**NEXT →**
+
+button to enter the deeper portfolio.
+
+Do not turn the homepage into a resume dump.
+
+### 3. Race History
+
+Convert my professional experience into an F1-style career timeline.
+
+For example:
+
+* 2021–2022 — Program Manager
+* 2022–2023 — Business Analyst
+* 2023–2024 — Project Specialist
+* 2024–Present — Product Portfolio Manager
+
+Each experience should communicate:
+
+* Role
+* Company
+* What I worked on
+* Problem
+* What I changed
+* Outcome / impact
+
+The F1 metaphor should enhance the storytelling rather than obscure the actual information.
+
+### 4. Race Achievements
+
+Create deeper case-study sections using:
+
+**SIGNAL → SYSTEM → SHIFT → IMPACT**
+
+SIGNAL
+What problem or opportunity did I identify?
+
+SYSTEM
+What did I design, build, or organize?
+
+SHIFT
+What changed because of my work?
+
+IMPACT
+What measurable or meaningful outcome resulted?
+
+Use this structure for major projects and achievements.
+
+### 5. The Garage
+
+Create a dedicated section for things I'm building, experimenting with, or learning outside my core career work.
+
+Potential categories:
+
+* AI / Data
+* Product experiments
+* Automation
+* Tools & frameworks
+* Side projects
+* Learning
+
+The garage should feel like an F1 team's engineering facility.
+
+### 6. How I Think
+
+Create a section representing my product/engineering philosophy.
+
+Potential principles:
+
+* User First
+* Data Driven
+* System Thinker
+* Impact Obsessed
+* Continuous Learner
+
+Each principle should have a concise explanation.
+
+### 7. Useful Coordinates
+
+Final contact section.
+
+Include:
+
+* Email
+* LinkedIn
+* GitHub
+* Resume
+* Let's Connect
+
+Use subtle F1 terminology such as:
+
+**PIT ENTRY OPEN**
+
+but keep it professional.
+
+---
+
+# Visual Direction
+
+Combine:
+
+**Formula 1 × Apple Liquid Glass × Premium Product Portfolio**
+
+Use:
+
+* Deep black / graphite backgrounds
+* Subtle red F1 accents
+* Frosted translucent glass panels
+* Thin borders
+* Soft reflections
+* Large clean typography
+* Cinematic photography
+* Subtle gradients
+* Smooth transitions
+* Generous whitespace
+* Minimal iconography
+* High-quality micro-interactions
+
+Avoid:
+
+* Excessive racing graphics
+* Cartoonish F1 elements
+* Too many red elements
+* Gaming-style HUDs
+* Unnecessary animations
+* Clutter
+* Generic portfolio templates
+* Overuse of the word "F1"
+
+The website should look like **Apple designed an F1 team's digital experience**, not like an F1 fan website.
+
+# Loop Engineering Process
+
+Do NOT attempt to perfect everything in one pass.
+
+Work through these iterations:
+
+### LOOP 1 — Information Architecture
+
+Design the complete website structure and user journey.
+
+Then critique it.
+
+Identify:
+
+* Missing sections
+* Unnecessary sections
+* Confusing navigation
+* Weak storytelling
+* Places where the F1 metaphor doesn't work
+
+Improve it.
+
+### LOOP 2 — Wireframes
+
+Create wireframes for every major screen.
+
+Evaluate:
+
+* Hierarchy
+* Content density
+* Navigation
+* CTA placement
+* Mobile responsiveness
+* Storytelling
+
+Improve the wireframes.
+
+### LOOP 3 — Visual Design
+
+Apply the F1 + Apple Liquid Glass visual language.
+
+Evaluate:
+
+* Typography
+* Spacing
+* Contrast
+* Glass effects
+* Visual hierarchy
+* Brand consistency
+* Professionalism
+
+Remove anything that feels gimmicky.
+
+### LOOP 4 — UX Critique
+
+Act simultaneously as:
+
+1. Senior Product Designer
+2. Apple UX designer
+3. F1 brand designer
+4. Hiring manager
+5. Product executive
+
+Critique the website from each perspective.
+
+Ask:
+
+**Would this impress a hiring manager?**
+
+**Would the interface feel premium?**
+
+**Does the F1 metaphor actually improve the story?**
+
+**Can someone understand what I do within 10 seconds?**
+
+**Does anything feel unnecessary?**
+
+Fix the problems.
+
+### LOOP 5 — Interaction Design
+
+Design:
+
+* Race-start animation
+* Page transitions
+* Hover states
+* Glass interactions
+* Scroll animations
+* Timeline interactions
+* Case-study transitions
+* Navigation
+
+Every animation must have a purpose.
+
+### LOOP 6 — Final Product Review
+
+Review the entire experience from first load to final contact.
+
+Score it from 1–10 on:
+
+* Visual quality
+* UX
+* Storytelling
+* Professionalism
+* F1 integration
+* Apple design integration
+* Content clarity
+* Memorability
+* Mobile experience
+* Hiring-manager appeal
+
+Anything below **9/10** should be reconsidered and improved.
+
+## Important Rule
+
+Do not blindly preserve ideas just because they were in the original concept.
+
+If something is weak, say so.
+
+If the F1 metaphor becomes forced, simplify it.
+
+If Apple Liquid Glass becomes excessive, reduce it.
+
+If a section doesn't add value, remove it.
+
+The objective is not to create the most visually complicated portfolio.
+
+The objective is to create a portfolio that makes someone think:
+
+**"This person clearly knows how to build products."**
+
+And then:
+
+**"Holy shit, this is a really good portfolio."**
